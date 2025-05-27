@@ -1,0 +1,2 @@
+com\example\lottery\infrastructure\dao\IActivityDao.class
+com\example\lottery\infrastructure\po\Activity.class

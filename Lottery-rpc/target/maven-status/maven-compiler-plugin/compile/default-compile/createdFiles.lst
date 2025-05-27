@@ -1,0 +1,4 @@
+com\example\lottery\rpc\IActivityBooth.class
+com\example\lottery\rpc\req\ActivityReq.class
+com\example\lottery\rpc\dto\ActivityDto.class
+com\example\lottery\rpc\res\ActivityRes.class
